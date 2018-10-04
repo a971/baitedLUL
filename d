@@ -6,9 +6,9 @@
     "guild_id": "199737254929760256",
     "id": "223704706495545344",
     "user": {
-        "username": "test",
-        "discriminator": "7479",
-        "id": "190320984123768832",
+        "username": "aind kys",
+        "discriminator": "8801",
+        "id": "310496568107335691",
         "avatar": "b004ec1740a63ca06ae2e14c5cee11f3"
     }
 }
