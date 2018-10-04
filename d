@@ -1,14 +1,14 @@
 {
-    "name": "test webhook",
-    "channel_id": "199737254929760256",
-    "token": "3d89bb7572e0fb30d8128367b3b1b44fecd1726de135cbe28a41f8b2f777c372ba2939e72279b94526ff5d1bd4358d65cf11",
+    "name": "Captain Hook",
+    "channel_id": "497260619632869378",
+    "token": "D68ngL7oHmnHiOjqoCw0qvi7quIB8hRcnnNbC1d1AIk8cg8Py8-q8ZttvJhgCZOifNxo",
     "avatar": null,
-    "guild_id": "199737254929760256",
-    "id": "223704706495545344",
+    "guild_id": "497260619200987148",
+    "id": "497260665355108353",
     "user": {
         "username": "aind kys",
         "discriminator": "8801",
         "id": "310496568107335691",
-        "avatar": "b004ec1740a63ca06ae2e14c5cee11f3"
+        "avatar": "cb3a8861a069fb9ba707dbfb2b282175"
     }
 }
